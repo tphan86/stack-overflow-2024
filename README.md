@@ -34,7 +34,7 @@ There are 3 notebooks available here to showcase work related to the above quest
 
 ## Results<a name="results"></a>
 
-The main insights of the code can be found at the github blog post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main insights of the code can be found at the github blog post available [here](https://tphan86.github.io/2024/09/06/maximizing-coding-skills.html).
 
 ## Acknowledgements and Licensing <a name="licensing"></a>
 
